@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaymejoan
+- 👋 Hi, I’m Bea!
 - 👀 I’m interested in learning new things and working in team environments to build something awesome!
 - 🌱 I’m currently learning ReactNative and am building a ReactNative ToDo List app for my mobile development uni course.
 - 💞️ I’m looking to collaborate on anything!
